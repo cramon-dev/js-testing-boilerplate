@@ -1,0 +1,11 @@
+{
+  "name": "js-testing-boilerplate",
+  "version": "1.0.0",
+  "description": "Sets up an environment for the user to practice test-driven development in JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Christian Ramon",
+  "license": "ISC"
+}
